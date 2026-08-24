@@ -1,0 +1,4 @@
+Bundle-Name: portal-notification-override
+Bundle-SymbolicName: portal.notification.override
+Bundle-Version: 1.0.0
+Export-Package: com.mw.portal.notification.override
